@@ -3,7 +3,7 @@ package org.emp;
 public class Sample {
 	
 		
-		private void m5() {
+		private void m7() {
 			System.out.println("giri");
 				}
 		
