@@ -7,8 +7,8 @@ public class Sample {
 			System.out.println("giri");
 				}
 		
-	private void m2() {
-	System.out.println("rejesh");
+	private void m7() {
+	System.out.println("raaaajesh");
 		}
 		
 		private void m3() {
