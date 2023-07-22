@@ -3,8 +3,8 @@ package org.emp;
 public class Sample {
 	
 		
-		private void m1() {
-			System.out.println("asik");
+		private void m5() {
+			System.out.println("giri");
 				}
 		
 	private void m6() {
